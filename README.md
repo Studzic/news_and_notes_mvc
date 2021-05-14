@@ -1,60 +1,34 @@
-# Tech Blog
+# <h1 align="center">🎇News and Notes an MVC🎇</h1>
 
-## Description 
-This is an application where the user can dynailcally add notes and make inquireies! 
-## Table of Contents 
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Documentation](#documentation)
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Questions](#questions)
+- [Functionality](#functionality)
 
+## Description
+This allows the user to make dynamic requests!
+## Installation
+ 💠Clone repo, run npm install, node seed NPM run server 💠
 ## Usage 
+👥 👥
+## Contributing 
+ Stackoverflow, Google & I
+## Tests
+Npm Install, Npm run build
+## Questions
+⁉Austin Dudzic⁉<br />
+<br/>
+🙋‍♂️ Find me on GitHub: [Studzic](https://github.com/Studzic)<br />
+<br />
+💯 Email me with any questions: austin.dudzic@gmail.com💯<br /><br />
+This README was generated with ❤️ by [README-generator](https://github.com/Studzic) ❤️
 
-Clone the repo, navigate to the root folder, run the following commands from the CLI:     
-
-Run Test;    
-`npm run test`     
-
-Seed DB;   
-`npm run seed`     
-
-Start Server;     
-`npm start server`     
-
-## Credits
-
-Siftware Bootcamp!
-
-## License
-
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-## Documentation
-
-Live Deployed Application: [View Application](https://https://infinite-ocean-30884.herokuapp.com/"Live Deploy")      
-
-
-
-
+## Functionality
 
 
 
