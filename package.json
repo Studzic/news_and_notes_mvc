@@ -1,7 +1,7 @@
 {
-    "name": "the-tech-blog",
+    "name": "news_and_notes_mvc",
     "version": "1.0.0",
-    "description": "tech-blog",
+    "description": "news_and_notes_mvc",
     "main": "server.js",
     "scripts": {
         "test": "jest",
