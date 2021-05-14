@@ -1,9 +1,7 @@
 # Tech Blog
 
 ## Description 
-
-This is supposed to be a heroku deployed application that the user can activly add notes and inquiries. 
-
+This is an application where the user can dynailcally add notes and make inquireies! 
 ## Table of Contents 
 
 * [Usage](#usage)
@@ -26,7 +24,7 @@ Start Server;
 
 ## Credits
 
-University of Arizona Coding Bootcamp Week 14 Module 14: Object-Relational Mapping.
+Siftware Bootcamp!
 
 ## License
 
