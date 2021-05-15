@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS tech_blog;
+DROP DATABASE IF EXISTS news_app;
 
-CREATE DATABASE tech_blog;
+CREATE DATABASE news_app;
